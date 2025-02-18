@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "d3e4",
+      "users": [
+        {
+          "name": "Kilo Doe",
+          "email": "john@example.com",
+          "password": "hashedpassword123"
+        }
+      ],
+      "password": "Code@123"
+    },
+    {
+      "id": "a8ef",
+      "name": "Purvika",
+      "email": "purvikayadav5@gmail.com",
+      "password": "$2b$10$YGAAZwGz3mCuOcyDWGooqe.A7aq6K7ChqyjhGMEYqL8CyAMbKb886"
+    },
+    {
+      "id": "107c",
+      "email": "purvikayadav5@gmail.com",
+      "password": "Code@123"
+    },
+    {
+      "id": "6bad",
+      "email": "purvikayadav5@gmail.com",
+      "password": "ABCD@123"
+    },
+    {
+      "id": "a5e0",
+      "email": "purvikayadav5@gmail.com",
+      "password": "Code@123"
+    },
+    {
+      "id": "9044",
+      "email": "purvikayadav5@gmail.com",
+      "password": "Code@123"
+    },
+    {
+      "id": "f6d9",
+      "name": "khushi",
+      "email": "purvikayadav@gmail.com",
+      "password": "Khushi@123"
+    },
+    {
+      "id": "bf03",
+      "email": "purvikayadav@gmail.com",
+      "password": "Yadav@123"
+    }
+  ]
+}
